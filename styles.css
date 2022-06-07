@@ -47,10 +47,12 @@ p {
 
 .container .main-image {
     position: relative;
+    
 }
 
 .container .main-image div {
     position: absolute;
+    border-radius: 1.5rem;
     top: 0;
     background-color: hsl(178, 100%, 50%, 60%);
     width: 100%;
